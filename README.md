@@ -7,6 +7,7 @@ Here is deployed version:
 
 Simple speech recognition app. 
 When you dont have a shit of paper and a pen you can use this app for your speech to be written down instead of you :)
+If you want to find out what time it just ask 'Котра година' :)
 
 [voice-recognition]
 
